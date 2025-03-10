@@ -38,7 +38,6 @@ This repository is designed for first-year engineering students to learn essenti
    ```
 
 5. **Implement the required functions**:
-   - Read the README.md in each exercise folder for instructions
    - Complete the functions in each `.py` file
    - Run the tests locally to check your implementation:
      ```bash
