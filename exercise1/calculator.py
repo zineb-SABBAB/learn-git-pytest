@@ -1,3 +1,4 @@
+
 # Exercise 1: Basic Calculator Functions
 from typing import Union
 
