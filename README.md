@@ -1,4 +1,5 @@
-# Git, Testing, and CI Learning Repository
+
+g# Git, Testing, and CI Learning Repository
 
 This repository is designed for first-year engineering students to learn essential software engineering practices: Git version control, automated testing with pytest, and Continuous Integration (CI) using GitHub Actions. The Python exercises serve as a vehicle for practicing these concepts.
 
