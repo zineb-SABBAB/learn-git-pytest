@@ -8,12 +8,11 @@ def reverse_string(s: str) -> str:
     Args:
         s: Input string
 
-    Returns:
+    Returns
         The reversed string
     """
     # TODO: Implement this function
-    pass
-
+    return s[::-1]
 
 def count_vowels(s: str) -> int:
     """
